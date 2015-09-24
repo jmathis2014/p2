@@ -12,5 +12,3 @@ xkcd Password Generator
 1.5
 
 ## Screencast URL 
-http://screencast.com/t/Fgk6SHh9
-
