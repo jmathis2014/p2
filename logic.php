@@ -52,21 +52,21 @@
 
                         case 2: // All uppercase letters 
                           foreach($selected_words as $key => $value) {
-                                print "\n" . $selected_words[$key];
+//                                print "\n" . $selected_words[$key];
                                 $selected_words[$key] = strtoupper($selected_words[$key]);
                           }
                           break;
 
                         case 3: // All lowercase letters 
                           foreach($selected_words as $key => $value) {
-                                print "\n" . $selected_words[$key];
+//                                print "\n" . $selected_words[$key];
                                 $selected_words[$key] = strtolower($selected_words[$key]);
                           }
                           break;
 
                         case 4: // First letter 
                           foreach($selected_words as $key => $value) {
-                                print "\n" . $selected_words[$key];
+//                                print "\n" . $selected_words[$key];
                                 $selected_words[$key] = ucfirst($selected_words[$key]);
                           }
                           break;
